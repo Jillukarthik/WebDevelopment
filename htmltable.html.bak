@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>leacture 3</title>
+</head>
+<body>
+<caption>HTML TABLE</caption>
+<table border="2" align="center" width="300">
+<thead color="blue">
+<caption>studnt details</caption>
+<tr>
+<th>
+first name</th>
+<th>
+last name</th>
+<th>scrore</th>
+</thead>
+<tbody>
+<tr>
+<td>jillu</td>
+<td>k</td>
+<td>20</td>
+</tr>
+<tr>
+<td>keerthi</td>
+<td>A</td>
+<td>24</td>
+</tr>
+<tbody/>
+</table>
+<body/>
+<html/>
+
+

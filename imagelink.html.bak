@@ -1,0 +1,16 @@
+<html>
+<body style="background-color:blue;">
+<p style="font-size:300%;color:white;text-align:center;">this is head</p>
+<a href="www.google.com">
+<img src="D:\frontend\images\p-5.jpg"  alt="picture" style="float:left-side;height:120px;weight:120px;"</a>
+<section style="background-color:white;"></a>
+
+<P><strong>i hate the</strong></p>
+<em>am karthik</em>
+<br>
+<small>bcav studen</small>
+<p><mark style="background-color:blue;">jillu</mark><p>
+<p><del>karthikillu</del></p>
+<p>&copy</p>
+<p><ins>insert the parcticlat<ins><p>
+<p>10<sup>a?b</sup></p>
